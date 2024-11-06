@@ -56,4 +56,19 @@ body {
       }
     }
   }
+  #employees {
+    table {
+      width: 600px;
+      thead {
+        background-color: lightgray;
+        height: 35px;
+        text-align: left;
+      }
+
+      tbody {
+        background-color: rgb(235, 235, 235);
+      }
+    }
+  }
+
 }

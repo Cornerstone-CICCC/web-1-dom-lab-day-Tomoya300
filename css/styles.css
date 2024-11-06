@@ -51,5 +51,16 @@ body {
   flex: 1;
   padding: 0.25rem;
 }
+.container #employees table {
+  width: 600px;
+}
+.container #employees table thead {
+  background-color: lightgray;
+  height: 35px;
+  text-align: left;
+}
+.container #employees table tbody {
+  background-color: rgb(235, 235, 235);
+}
 
 /*# sourceMappingURL=styles.css.map */
